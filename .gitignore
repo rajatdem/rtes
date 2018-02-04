@@ -2,3 +2,7 @@
 *.o.*
 *.order
 *.builtin
+*/almostperiodic/*
+*/periodic/*
+*/set_rtprio/*
+*/test_psdev/*
