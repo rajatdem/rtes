@@ -1,0 +1,7 @@
+obj-y += ps.o
+obj-y += calc.o
+obj-y += reserve.o
+obj-y += end_job.o
+obj-y += taskmon_sysfs.o
+obj-y += cpu_heuristics.o
+obj-y += sysclock.o
